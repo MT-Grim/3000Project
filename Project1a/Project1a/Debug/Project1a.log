@@ -1,0 +1,6 @@
+﻿  Clock.cpp
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\Clock.cpp(44,34): warning C4101: 'new_current': unreferenced local variable
+  Manager.cpp
+  Generating Code...
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\Manager.cpp(64): warning C4715: 'df::Manager::isStarted': not all control paths return a value
+LogManager.obj : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
